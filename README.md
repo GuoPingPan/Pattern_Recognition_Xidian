@@ -31,6 +31,10 @@ pip install -r requirements.txt
 git clone git@github.com:GuoPingPan/Pattern_Recognition_Xidian.git
 ```
 
+## LIBSVM库的用法
+
+👉[传送连接](https://www.yuque.com/docs/share/74c020fb-4e06-4902-9530-0f563731dba2?#)
+
 ## Contract
 More learning materials in our WeChat account.
 
