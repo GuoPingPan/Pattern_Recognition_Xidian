@@ -5,7 +5,7 @@ This project is about 《Pattern Recognition》 class for AI student in Xidian U
 
 <div align="center"><img src="demo/3.png" height="360" /></div> 
 
-## Requirments
+## Requirements
 - Python>=3.7 [comment use conda]
 - numpy
 - pandas
@@ -21,8 +21,8 @@ This project is about 《Pattern Recognition》 class for AI student in Xidian U
 conda create --name name_as_you_like python=3.7
 source activate name_as_you_like
 ```
-### Install requirments
-You can install requirments recurrently, or just do:
+### Install requirements
+You can install requirements recurrently, or just do:
 ```
 pip install -r requirements.txt
 ```
